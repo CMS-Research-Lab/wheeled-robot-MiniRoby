@@ -1,4 +1,5 @@
 # Educational Mobile Robot Prototype MiniRoby
+<img src="miniroby.png" alt="Robot image" width="400"/>
 ![Robot Image](miniroby.png)  
 *Figure: 3D-printed mobile robot prototype based on differential drive.*
 
