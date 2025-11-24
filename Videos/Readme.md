@@ -21,4 +21,4 @@ Each video shows the robot executing a specific reference trajectory in real tim
 - 🔗 [Linear trajectory](https://www.youtube.com/watch?v=LINEAL_ID)
 - 🔗 [Circular trajectory](https://www.youtube.com/watch?v=CIRCULAR_ID)
 - 🔗 [Sinusoidal trajectory](https://www.youtube.com/watch?v=SINUSOIDAL_ID)
-
+- 🔗 [Complex trajectory](https://youtu.be/_qh-XZkj5wg)
