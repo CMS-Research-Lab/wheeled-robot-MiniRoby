@@ -31,8 +31,12 @@ less
 Copy
 Edit
 
+------------------------------------------------------------------------------------------------------------
 > Please cite the original publication when using or adapting any part of this project.
-
+> Por favor, cite la publicación original al utilizar o adaptar cualquier parte de este proyecto.
+>
+> 
+------------------------------------------------------------------------------------------------------------
 ---
 
 ### Contact
