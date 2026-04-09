@@ -33,9 +33,21 @@ Edit
 
 ------------------------------------------------------------------------------------------------------------
 > Please cite the original publication when using or adapting any part of this project.
-> Por favor, cite la publicación original al utilizar o adaptar cualquier parte de este proyecto.
->
-> 
+MDPI and ACS Style
+
+Márquez-Sánchez, C.; Sandoval-Gutiérrez, J.; Martínez-Vázquez, D.L. Construction of an Educational Prototype of a Differential Wheeled Mobile Robot. Hardware 2026, 4, 2. https://doi.org/10.3390/hardware4010002
+
+AMA Style
+
+Márquez-Sánchez C, Sandoval-Gutiérrez J, Martínez-Vázquez DL. Construction of an Educational Prototype of a Differential Wheeled Mobile Robot. Hardware. 2026; 4(1):2. https://doi.org/10.3390/hardware4010002
+
+Chicago/Turabian Style
+
+Márquez-Sánchez, Celso, Jacobo Sandoval-Gutiérrez, and Daniel Librado Martínez-Vázquez. 2026. "Construction of an Educational Prototype of a Differential Wheeled Mobile Robot" Hardware 4, no. 1: 2. https://doi.org/10.3390/hardware4010002
+
+APA Style
+
+Márquez-Sánchez, C., Sandoval-Gutiérrez, J., & Martínez-Vázquez, D. L. (2026). Construction of an Educational Prototype of a Differential Wheeled Mobile Robot. Hardware, 4(1), 2. https://doi.org/10.3390/hardware4010002
 ------------------------------------------------------------------------------------------------------------
 ---
 
