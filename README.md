@@ -24,7 +24,10 @@ Este repositorio contiene los archivos del artículo:
 **"Construction of an Educational Prototype of a Differential Wheeled Mobile Robot"**  
 Autores: Celso Márquez-Sánchez, Jacobo Sandoval-Gutiérrez y Daniel Librado Martinez-Velazquez  
 Revista: *Hardware* (MDPI)
+
 Como citar:
+
+Márquez-Sánchez, C., Sandoval-Gutiérrez, J., & Martínez-Vázquez, D. L. (2026). Construction of an Educational Prototype of a Differential Wheeled Mobile Robot. Hardware, 4(1), 2. https://doi.org/10.3390/hardware4010002
 
 
 ---
